@@ -1,3 +1,3 @@
 # saanvi
 beginner
-author - SAANI BANSAL
+author - SAANVI BANSAL
